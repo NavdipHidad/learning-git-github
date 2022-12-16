@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Change in master
-change in adding-img
+=======
+Change in master 
+for diff to check
+in master
+>>>>>>> master

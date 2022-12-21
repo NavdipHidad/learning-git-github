@@ -3,4 +3,3 @@ this is 2nd line.
 this is 3rd line.
 this line from GitHub
 second line from github
-Some test text here.
